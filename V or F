@@ -1,0 +1,72 @@
+<form action="emailmvivibecker@gmail.com">
+
+<label form "yy">qual é mais saudável:</label></br/>
+
+<input type="radio"name="um"id="v">
+<label form= "v">cenouras</label></br Mas é>
+
+<input type="radio"name="um"id="f">
+<label form="f">chocolates</label></br>
+
+<input type="radio"name="um"id="f">
+<label for="f">aula de projeto de vida</label></br>
+</br>
+
+<label form "y">eu sou...</label></br/>
+
+<input type="checkbox"name="quatro"id="v">
+<label form= "v">legal</label></br>
+
+<input type="checkbox"name="quatro"id="v">
+<label form="v">maravilhosa</label></br>
+
+<input type="checkbox"name="quatro"id="">
+<label for="v">super bacana</label></br>
+</br>
+
+<label form "yy">o sal é...</label></br/>
+
+<input type="radio"name="sete"id="v">
+<label form= "v">doce</label></br>
+
+<input type="radio"name="sete"id="f">
+<label form="f">salgado</label></br>
+</br>
+
+<label form "yy">qual a principal característica do professor vanderson?</label></br/>
+
+<input type="radio"name="nove"id="f">
+<label form= "f">calvo</label></br>
+
+<input type="radio"name="nove"id="f">
+<label form="f">comelao</label></br>
+
+ 
+ <input type="radio"name="nove"id="v">
+<label form="v">o rapaz so usa roupa de grife</label></br>
+</br>
+
+<label form "yy">aniversário da Laís</label></br/>
+<input type="date" name="ama" id="5"></br></br>
+
+<input type="submit" value="enviar formulário"class="enviar" >
+	
+
+
+<style>
+	
+ .enviar {
+	width: 100%;
+	padding: 20px 0;
+ background: #FFD66C;
+ color : orange ;
+ 
+ font-weight: bold;
+ fonte-size: 40px;
+ border: none;
+ border-radius: 90px; 
+ 
+ 
+ </style>
+ 
+     
